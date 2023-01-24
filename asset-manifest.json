@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-resume/static/css/main.3ba5fdc6.css",
+    "main.js": "/my-resume/static/js/main.2ba182f1.js",
+    "static/js/787.31fa27c0.chunk.js": "/my-resume/static/js/787.31fa27c0.chunk.js",
+    "static/media/banner-bg2-onlybottom.png": "/my-resume/static/media/banner-bg2-onlybottom.862aaa81764b332bed8f.png",
+    "static/media/banner-bg2-onlytop.png": "/my-resume/static/media/banner-bg2-onlytop.6d53cab70c338b9c19a9.png",
+    "static/media/color-sharp.png": "/my-resume/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/ai-profile-pic.jpg": "/my-resume/static/media/ai-profile-pic.b028303a7d2a950ba8cf.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/my-resume/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/my-resume/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/my-resume/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/consulting.svg": "/my-resume/static/media/consulting.bafad9253abfac79d009cba6d6ed5cc8.svg",
+    "static/media/analytics.svg": "/my-resume/static/media/analytics.6115577620eded190d5c79bd2aadbe91.svg",
+    "static/media/rocket.svg": "/my-resume/static/media/rocket.89ea5acaa3d34413589a45fff614ac65.svg",
+    "static/media/williamlogobig.svg": "/my-resume/static/media/williamlogobig.0e30fb7143d4e5ad7bf66345f1cfd23b.svg",
+    "static/media/blockchain.svg": "/my-resume/static/media/blockchain.ae6ba2b861b3444e468662163b360fa8.svg",
+    "static/media/SchoolIcon.svg": "/my-resume/static/media/SchoolIcon.a41655f6d5350015803153c7410cef6a.svg",
+    "static/media/github-icon.svg": "/my-resume/static/media/github-icon.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/WorkIcon.svg": "/my-resume/static/media/WorkIcon.3710b62484ed638074240e99317c6c60.svg",
+    "index.html": "/my-resume/index.html",
+    "static/media/linkedin-icon.svg": "/my-resume/static/media/linkedin-icon.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.3ba5fdc6.css.map": "/my-resume/static/css/main.3ba5fdc6.css.map",
+    "main.2ba182f1.js.map": "/my-resume/static/js/main.2ba182f1.js.map",
+    "787.31fa27c0.chunk.js.map": "/my-resume/static/js/787.31fa27c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba5fdc6.css",
+    "static/js/main.2ba182f1.js"
+  ]
+}
